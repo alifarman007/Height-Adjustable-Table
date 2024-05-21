@@ -42,32 +42,28 @@ Ergo Height Adjustable Table features a height-adjustment setting below its slee
 <br />
 
 <h2>Speacial Feature: Memory Recall</h2>
-Four Memory preset options for easy adjustment
+<b>Four Memory preset options for easy adjustment</b>
 <br />
 <p align="center">
 <img src="https://i.imgur.com/UvNE8vq.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
+The table boasts a state-of-the-art LCD Control Unit designed specifically for HD ND desks. This advanced control unit features a digital height display, making it easy to monitor and adjust the table's height with precision. It comes equipped with four programmable memory settings, allowing users to save and recall their preferred heights at the touch of a button. The unit's intuitive interface includes easy-use soft touch buttons, ensuring a smooth and effortless adjustment experience. Whether for standing or sitting, this digital display handset provides unparalleled convenience and customization, enhancing both comfort and productivity in any workspace.
+<br />
 
 <p align="center">
-<img src="https://i.imgur.com/AW9HOnk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NroMaAT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-<h2>Color Version:</h2>
+<h2>PCB Design:</h2>
 <p align="center">
-<img src="https://i.imgur.com/K0yywug.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e1PgwLn.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
-
-<h2>Circuit Diagram:</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/7Vwqs3V.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8jglGB3.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
