@@ -14,15 +14,25 @@ Ergo Height Adjustable Table features a height-adjustment setting below its slee
 <br />
 <br />
 
-<h2>Versions</h2>
-
-- <b>Black Metal</b> 
-- <b>Wood and Rattan</b>
+<h2>Table Flyer And Versions</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/wiLTSnb.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qMXTBAl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<p align="center">
+<img src="https://i.imgur.com/rpo8Aa2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/uRBXxZN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p align="center">
+<img src="https://i.imgur.com/7rLDRtL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 <h2>Features </h2>
 
