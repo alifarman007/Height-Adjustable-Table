@@ -37,7 +37,7 @@ Ergo Height Adjustable Table features a height-adjustment setting below its slee
 <h2>Features Video </h2>
 
 <p align="center">
-<img src="https://i.imgur.com/GWTrQAg.mp4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GWTrQAg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
