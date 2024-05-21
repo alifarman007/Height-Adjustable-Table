@@ -34,13 +34,12 @@ Ergo Height Adjustable Table features a height-adjustment setting below its slee
 <br />
 
 
-<h2>Features </h2>
+<h2>Features Video </h2>
 
-- <b>Warm Light</b> (3000k)
-- <b>Long Bettery</b> (2000mAh)
-- <b>High Sensitive solar panel</b> 162*144mm
-- <b>Precise Solar charger circuit</b>
-- <b>7 hours continuous light</b>
+<p align="center">
+<img src="https://i.imgur.com/GWTrQAg.mp4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Speacial Feature:</h2>
 <p align="center">
