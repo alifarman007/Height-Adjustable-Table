@@ -41,23 +41,28 @@ Ergo Height Adjustable Table features a height-adjustment setting below its slee
 <br />
 <br />
 
+<h2>Speacial Feature: Memory Recall</h2>
+Four Memory preset options for easy adjustment
+<br />
+<p align="center">
+<img src="https://i.imgur.com/UvNE8vq.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+<p align="center">
+<img src="https://i.imgur.com/AW9HOnk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <h2>Color Version:</h2>
 <p align="center">
 <img src="https://i.imgur.com/K0yywug.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-<h2>View walk-through:</h2>
 
-<p align="center">
-<img src="https://i.imgur.com/z7KXMX2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
-<p align="center">
-<img src="https://i.imgur.com/AW9HOnk.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 <h2>Circuit Diagram:</h2>
 
