@@ -67,6 +67,12 @@ The table boasts a state-of-the-art LCD Control Unit designed specifically for H
 <br />
 <br />
 
+<h2>Color Versions</h2>
+<p align="center">
+<img src="https://i.imgur.com/K0yywug.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 <!--
  ```diff
