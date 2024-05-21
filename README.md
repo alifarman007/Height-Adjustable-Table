@@ -67,13 +67,6 @@ The table boasts a state-of-the-art LCD Control Unit designed specifically for H
 <br />
 <br />
 
-<h2>PCB Developed for this Project</h2>
-
-<p align="center">
-Solar Charger v1.0<br/>
-<img src="https://i.imgur.com/5oZcpQL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 <!--
  ```diff
